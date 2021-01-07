@@ -1,0 +1,102 @@
+
+
+
+body
+{
+    
+    background-color: beige;
+    
+    
+}
+
+.FS{
+    
+    background-color: transparent;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+    color: cadetblue;
+    /*font-family: monospace;*/
+    
+}
+
+.FS p
+{
+    font-size: 18px;
+    color: cadetblue;
+    font-family: monospace;
+}
+
+.list
+{
+    border-color: aqua;
+    list-style: none;
+    
+
+}
+
+.lit
+{
+   
+}
+
+.img1
+{
+    
+    float: right;
+    
+    
+}
+.lit a
+{
+    
+    
+    text-decoration: none;
+    background-color: transparent;
+    color: cadetblue;
+    font-family: monospace;
+    font-size: 20px;
+    text-shadow: 0 5px 11px rgba(0, 0, 0, 0.3);
+    
+    
+    display: inline;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0 6px 15px rgba(1, 1, 1, 0.3);
+
+    
+    
+}
+
+.llo
+{
+    
+ float:left;
+ display: inline;
+    
+}
+a:hover
+
+{
+    
+    color: chartreuse;
+    
+}
+
+a:active
+
+{
+    
+    color: darkgreen;
+    
+    
+}
+
+
+.nav-div
+{
+    
+    
+    border-color: aqua;
+    
+    
+}
